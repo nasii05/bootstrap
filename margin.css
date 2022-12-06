@@ -1,0 +1,16 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: lightgreen;
+}
+span{
+    background-color: hotpink;
+    font-size: 30px;
+}
+
+.box{
+    background-color: yellow;
+    border: 2px solid black;
+    width: auto;
+    height: auto;
+}
